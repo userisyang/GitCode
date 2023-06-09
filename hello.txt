@@ -10,3 +10,5 @@ hello github ! hello git!
 hello github ! hello git!
 hello github ! hello git! master test 
 hello github ! hello git!
+hello github ! hello git!
+hello github ! hello git! hot-fix test
